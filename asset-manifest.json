@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Anudari-Batsaikhan-Portfolio/static/css/main.114fae77.css",
+    "main.js": "/Anudari-Batsaikhan-Portfolio/static/js/main.a6414ced.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Anudari-Batsaikhan-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Anudari-Batsaikhan-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/graph2.jpeg": "/Anudari-Batsaikhan-Portfolio/static/media/graph2.5fc18ebc44a7ea62e543.jpeg",
+    "static/media/chefcompass.png": "/Anudari-Batsaikhan-Portfolio/static/media/chefcompass.089094a6a16e6a908e43.png",
+    "static/media/Anudari Batsaikhan-Resume .pdf": "/Anudari-Batsaikhan-Portfolio/static/media/Anudari Batsaikhan-Resume .1c50d38a748557ac4fe1.pdf",
+    "static/media/about.png": "/Anudari-Batsaikhan-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/anudari.png": "/Anudari-Batsaikhan-Portfolio/static/media/anudari.8ea7bfa0cab0530759ee.png",
+    "static/media/home.png": "/Anudari-Batsaikhan-Portfolio/static/media/home.85e7bdd07d0ed990c748.png",
+    "static/media/home-bg.jpg": "/Anudari-Batsaikhan-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Btree.png": "/Anudari-Batsaikhan-Portfolio/static/media/Btree.d9bddcacc08b67bf4be8.png",
+    "static/media/pre.svg": "/Anudari-Batsaikhan-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Anudari-Batsaikhan-Portfolio/index.html",
+    "main.114fae77.css.map": "/Anudari-Batsaikhan-Portfolio/static/css/main.114fae77.css.map",
+    "main.a6414ced.js.map": "/Anudari-Batsaikhan-Portfolio/static/js/main.a6414ced.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Anudari-Batsaikhan-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Anudari-Batsaikhan-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.114fae77.css",
+    "static/js/main.a6414ced.js"
+  ]
+}
