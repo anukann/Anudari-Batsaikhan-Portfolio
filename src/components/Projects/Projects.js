@@ -23,11 +23,12 @@ function Projects() {
       <ProjectCard
         imgPath={chefcompass}
         isBlog={false}
-        title="Chef's Compass"
+        title="Chef's Compass (team)"
         description="Chef's Compass is a platform that simplifies your culinary journey. Create, store, and share recipes, plan meals with a convenient calendar, and let it automatically generate shopping lists. It's your recipe repository, meal planner, and grocery helper, all in one place. Enjoy cooking like never before with Chef's Compass!"
         techStack="Amazon Web Services (AWS), Node.js, React Native, Google API "
-        period="October 2023 - Present"
-        ghLink="https://github.com/lethienantran/chef-compass-ui"
+        period="October 2023 - June 2024"
+        role="ScrumMaster, UI/UX designer"
+        ghLink="https://www.youtube.com/watch?v=5-yikacxQUU"
       />
     </Col>
 
@@ -37,10 +38,11 @@ function Projects() {
             <ProjectCard
               imgPath={webcrawler}
               isBlog={false}
-              title="Web Crawler"
+              title="Web Crawler (team)"
               description="This program is a comprehensive tool designed to delve into web pages, visually represent their relationships, and analyze their connectivity. It begins its journey by scanning a single URL, meticulously weaving a web of connections that encapsulate the website's structure. These connections are transformed into an adjacency matrix, serving as the foundation for the subsequent visualization phase. "
               techStack="Node.js"
               period= "February - March 2024"
+              role= "Developer"
               ghLink="https://github.com/joyce628/Web-Crawler_JS"             
             />
           </Col>
@@ -49,10 +51,11 @@ function Projects() {
             <ProjectCard
               imgPath={btree}
               isBlog={false}
-              title="B-Tree Library"
+              title="B-Tree Library (individual)"
               description="This repository contains an implementation of the B-tree data structure in JavaScript. A B-tree is a balanced tree data structure commonly used for storing and managing large datasets efficiently. It is designed to optimize search, insertion, and deletion operations, making it suitable for applications requiring fast access to sorted data."
               techStack="Node.js"
               period="March 2024"
+              role = "Developer"
               ghLink="https://github.com/anukann/B-tree"
             />
           </Col>

@@ -9,21 +9,26 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Anudari Batsaikhan </span>
-            based in <span className="purple"> Seattle, WA.</span>
-            <br />
-            I am currently senior studying Computer Science at Seattle Pacific University.
+            based in <span className="purple"> Seattle, WA. </span>
+            
+             I’m a senior majoring in Computer Science at Seattle Pacific University, graduating in December 2024.
            
             <br />
             <br />
-            Some other activities that I love to do!
+            I hold several <span className="purple"> certifications </span>that demonstrate my technical expertise:
           </p>
           <ul>
             
             <li className="about-activity">
-              <ImPointRight /> Watching movies
+              <ImPointRight /> AWS Certified Developer – Associate
             </li>
+            <br />
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> HTML, CSS, and JavaScript for Web Developers (Johns Hopkins University)
+            </li>
+            <br />
+            <li className="about-activity">
+              <ImPointRight /> Technical Support Fundamentals (Google)
             </li>
           </ul>
 

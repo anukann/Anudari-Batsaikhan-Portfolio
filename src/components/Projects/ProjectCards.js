@@ -14,11 +14,15 @@ function ProjectCards(props) {
           {props.description}
         </Card.Text>
         <Card.Text>
+          <strong>Role:</strong> {props.role}
+        </Card.Text>
+        <Card.Text>
           <strong>Tech Stack:</strong> {props.techStack}
         </Card.Text>
         <Card.Text>
           <strong>Period:</strong> {props.period}
         </Card.Text>
+        
         <Button variant="primary" href={props.ghLink} target="_blank">
           <BsGithub /> &nbsp;
           {props.isBlog ? "Blog" : "GitHub"}

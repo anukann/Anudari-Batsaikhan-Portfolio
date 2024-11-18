@@ -21,11 +21,9 @@ function Home2() {
             <p className="home-about-body">
             Hi, I'm
                 <b className="purple"> Anudari Batsaikhan, </b>
-            a Computer Science major with a passion for creating robust software solutions and designing intuitive user interfaces.
-            Welcome to my portfolio where you can explore my 
-            <b className="purple"> programming projects </b>
-             and 
-             <b className="purple"> UI/UX designs.</b>
+                Computer Science major graduating in December 2024. I am passionate about creating impactful products, blending my love for software development, UI/UX design, and product management. Explore my portfolio to discover my programming projects and user-centric interface designs.
+
+ 
               <br />
               <br />I am fluent in 
               
